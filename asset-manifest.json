@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactYoutubeAPI/static/css/main.8ad48a67.chunk.css",
+    "main.js": "/ReactYoutubeAPI/static/js/main.cc5e2930.chunk.js",
+    "main.js.map": "/ReactYoutubeAPI/static/js/main.cc5e2930.chunk.js.map",
+    "runtime-main.js": "/ReactYoutubeAPI/static/js/runtime-main.2251f926.js",
+    "runtime-main.js.map": "/ReactYoutubeAPI/static/js/runtime-main.2251f926.js.map",
+    "static/js/2.794c9041.chunk.js": "/ReactYoutubeAPI/static/js/2.794c9041.chunk.js",
+    "static/js/2.794c9041.chunk.js.map": "/ReactYoutubeAPI/static/js/2.794c9041.chunk.js.map",
+    "index.html": "/ReactYoutubeAPI/index.html",
+    "precache-manifest.0f260e745575ba197fb187dc44b853cc.js": "/ReactYoutubeAPI/precache-manifest.0f260e745575ba197fb187dc44b853cc.js",
+    "service-worker.js": "/ReactYoutubeAPI/service-worker.js",
+    "static/css/main.8ad48a67.chunk.css.map": "/ReactYoutubeAPI/static/css/main.8ad48a67.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2251f926.js",
+    "static/js/2.794c9041.chunk.js",
+    "static/css/main.8ad48a67.chunk.css",
+    "static/js/main.cc5e2930.chunk.js"
+  ]
+}
